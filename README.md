@@ -1,1 +1,1 @@
-# College-proj1
+# HTML page for recipes with bootstrap
